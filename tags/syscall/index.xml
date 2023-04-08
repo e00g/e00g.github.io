@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syscall on e00g</title>
+    <link>https://e00g.github.io/tags/syscall/</link>
+    <description>Recent content in syscall on e00g</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Apr 2023 19:26:55 +0200</lastBuildDate><atom:link href="https://e00g.github.io/tags/syscall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>post init</title>
+      <link>https://e00g.github.io/posts/post-init/</link>
+      <pubDate>Tue, 04 Apr 2023 19:26:55 +0200</pubDate>
+      
+      <guid>https://e00g.github.io/posts/post-init/</guid>
+      <description>a very warm welcome to you all!
+after working years as a software developer in the industry, I figured out that I&amp;rsquo;m not happy with what I&amp;rsquo;m doing. I had started learning programming by digging the things which was looking a black-box to me, which had something waiting to be discovered. and then the wind of the life made my sail to go and I became a programmer, worked with several programming languages for companies which are doing some cool(!</description>
+    </item>
+    
+  </channel>
+</rss>

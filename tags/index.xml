@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on e00g</title>
+    <link>https://e00g.github.io/tags/</link>
+    <description>Recent content in Tags on e00g</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Apr 2023 19:26:55 +0200</lastBuildDate><atom:link href="https://e00g.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kernel</title>
+      <link>https://e00g.github.io/tags/kernel/</link>
+      <pubDate>Tue, 04 Apr 2023 19:26:55 +0200</pubDate>
+      
+      <guid>https://e00g.github.io/tags/kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://e00g.github.io/tags/linux/</link>
+      <pubDate>Tue, 04 Apr 2023 19:26:55 +0200</pubDate>
+      
+      <guid>https://e00g.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syscall</title>
+      <link>https://e00g.github.io/tags/syscall/</link>
+      <pubDate>Tue, 04 Apr 2023 19:26:55 +0200</pubDate>
+      
+      <guid>https://e00g.github.io/tags/syscall/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
